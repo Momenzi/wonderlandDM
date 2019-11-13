@@ -12,7 +12,7 @@ Wonderland Deathmatch server skripta radjena od prilike mjesec dana.Skripta nije
 - SKY
 - RNM
 
-#includes
+#Includes
 - crashdetect
 - nex-ac
 - foreach
